@@ -15,17 +15,11 @@ HarmonyOS
 小米
 雷军
 
-微软
-Microsoft
-
-谷歌
-google
-
 iphone
 ipad
 mac
 ios
-苹果
+苹果手机
 
 ai
 !gai
@@ -33,12 +27,7 @@ ai
 
 国产
 中国
-
-美国
-日本
-韩国
-
-新质生产力
+台湾
 
 新能源
 理想
