@@ -153,5 +153,5 @@ platforms:
     name: "ProductHunt"
 
   # === 其他/工具类 ===
-  - id: "chongbuluo"
-    name: "虫部落"
+  # - id: "chongbuluo"
+  #   name: "虫部落"
